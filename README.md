@@ -217,8 +217,8 @@ This project is licensed under the MIT License - see the LICENSE file for detail
 ## Support
 
 For support and queries:
+- Contact the developer: Ameer (ameerkhanpk1428@gmail.com)
 - Create an issue in the repository
-- Contact the development team
 - Check the documentation
 
 ## Acknowledgments
