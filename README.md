@@ -396,8 +396,8 @@ stateDiagram-v2
 
 1. Clone the repository:
 ```bash
-git clone <repository-url>
-cd EAAWAS
+git clone (https://github.com/Ameer1428/Project.git)
+cd Project
 ```
 
 2. Create and activate a virtual environment:
